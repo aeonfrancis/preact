@@ -10,8 +10,11 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
+    "emailjs-com": "^3.2.0",
     "gh-pages": "^5.0.0",
-    "preact": "^10.13.1"
+    "preact": "^10.13.1",
+    "react-bootstrap": "^2.7.4"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.5.0",
