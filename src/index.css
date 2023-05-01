@@ -58,6 +58,8 @@ body {
   background: #ffc10752;
   padding-right: 5px;
   box-shadow: -123px 0px 0px #ffc10752;
+  z-index: 1;
+  position: relative;
 }
 
 .title_sub {
@@ -66,8 +68,6 @@ body {
   font-size: 1.5rem;
   position: relative;
   top: -17px;
-  z-index: 1;
-  position: relative;
 }
 
 .red {
