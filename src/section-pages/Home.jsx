@@ -46,7 +46,7 @@ export default function HomeComponent() {
             </h3>
             <br />
             <a
-              href="https://drive.google.com/file/d/1H-zoWiyPcAPmTB0DT3pIcZA3l9WvPP52/view?usp=share_link"
+              href="https://drive.google.com/file/d/1Uy8-8L1x5S0s-pFLMB4hDX-76_3zKGQl/view?usp=sharing"
               target="_blank"
             >
               <button
